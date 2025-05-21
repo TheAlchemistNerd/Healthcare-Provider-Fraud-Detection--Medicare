@@ -1,12 +1,8 @@
-Sure! Below is a **detailed README** file (\~1000 words) based on your project, which involves developing a **healthcare fraud detection system using machine learning on Medicare data**.
-
----
-
-# 🏥 Healthcare Fraud Detection Using Machine Learning
+# 🏥 Healthcare Provider Fraud Detection Using Machine Learning
 
 ## 📘 Project Overview
 
-This project presents the development of a machine learning-based **healthcare fraud detection system** using real-world **Medicare claims data**. With rising concerns about fraudulent billing and provider misconduct in healthcare systems, particularly Medicare, this system aims to identify potential fraud patterns by analyzing financial anomalies and healthcare claim behaviors.
+This project presents the development of a machine learning-based **healthcare provider fraud detection system** using real-world **Medicare claims data**. With rising concerns about fraudulent billing and provider misconduct in healthcare systems, particularly Medicare, this system aims to identify potential fraud patterns by analyzing financial anomalies and healthcare claim behaviors.
 
 By applying supervised learning algorithms such as **Decision Trees**, **Random Forests**, and **XGBoost**, the system highlights suspicious activities like **unusually high reimbursements**, **duplicate claims**, and **abnormally high deductible payments**.
 
@@ -132,7 +128,7 @@ Due to the class imbalance, standard accuracy was not sufficient. Therefore, we 
 ## ⚠️ Limitations
 
 * **Dataset Bias**: Only Medicare data was used; generalization to private insurers is limited.
-* **Assumption of Accuracy**: We assumed the fraud labels in the data are correct and comprehensive.
+* **Assumption of Accuracy**: I assumed the fraud labels in the data are correct and comprehensive.
 * **Static Analysis**: Temporal evolution of fraud patterns (e.g., over time) was not analyzed in this phase.
 
 ---
@@ -154,8 +150,8 @@ To improve and extend this work, future research can include:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/healthcare-fraud-detection.git
-cd healthcare-fraud-detection
+git clone https://github.com/The/healthcare-fraud-detection](https://github.com/TheAlchemistNerd/Healthcare-Provider-Fraud-Detection--Medicare.git
+cd Healthcare-Provider-Fraud-Detection--Medicare
 ```
 
 2. Install dependencies:
@@ -172,7 +168,7 @@ pip install -r requirements.txt
 4. Run the Jupyter Notebook:
 
 ```bash
-jupyter notebook fraud_detection_pipeline.ipynb
+jupyter notebook Healthcare-Provider-Fraud-Detection-Medicare.ipynb
 ```
 
 ---
