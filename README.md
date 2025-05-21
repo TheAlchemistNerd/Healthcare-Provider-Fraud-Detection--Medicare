@@ -215,6 +215,6 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 If you have any questions, suggestions, or collaboration ideas, feel free to contact:
 
-📧 Email: [yourname@example.com](mailto:nevillemaloba@yahoo.com)
-🐙 GitHub: [github.com/yourusername](https://github.com/TheAlchemistNerd)
-🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/nevil-maloba-3a268716b)
+📧 Email: [yourname@nevillemaloba@yahoo.com](mailto:nevillemaloba@yahoo.com)
+🐙 GitHub: [github.com/TheAlchemistNerd](https://github.com/TheAlchemistNerd)
+🔗 LinkedIn: [linkedin.com/in/Nevil Maloba](https://linkedin.com/in/nevil-maloba-3a268716b)
