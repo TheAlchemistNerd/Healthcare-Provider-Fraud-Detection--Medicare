@@ -150,7 +150,7 @@ To improve and extend this work, future research can include:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/The/healthcare-fraud-detection](https://github.com/TheAlchemistNerd/Healthcare-Provider-Fraud-Detection--Medicare.git
+git clone https://github.com/TheAlchemistNerd/Healthcare-Provider-Fraud-Detection--Medicare.git
 cd Healthcare-Provider-Fraud-Detection--Medicare
 ```
 
