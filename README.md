@@ -193,8 +193,7 @@ jupyter notebook Healthcare-Provider-Fraud-Detection-Medicare.ipynb
 
 ## 🧑‍🔬 Authors and Contributions
 
-* **\[Your Name]** – Data preprocessing, model development, evaluation, and documentation.
-* **Collaborators** (if any): \[Name], \[Role]
+* **\Nevil Maloba** – Data preprocessing, model development, evaluation, and documentation.
 
 ---
 
